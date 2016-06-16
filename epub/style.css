@@ -1,0 +1,89 @@
+* {
+    font-family: serif;
+    font-style: normal;
+    font-size: normal;
+    text-align: justify;  
+}
+
+body, p.cover {
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+img.cover {
+    /*height: 100%;*/
+    /*width: 100%;*/
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: sans-serif;
+    text-align: left;
+}
+
+blockquote, blockquote p {
+    font-style: italic;
+    page-break-inside: avoid;
+}
+
+blockquote address {
+    font-size: 0.8em;
+    text-align: right;
+    padding-top: 1em;
+}
+
+div, p {
+    orphans: 2;
+    widows: 2;
+    /*display: inline-block;*/
+}
+
+#note {
+    page-break-before: always;
+}
+
+div.figure {
+    text-align: center;
+    page-break-inside: avoid;
+}
+
+p.caption {
+    font-style: italic;
+    font-size: 0.8em;
+
+}
+
+sup {
+    font-size: 0.6em;
+    line-height: 0.4em;
+}
+
+div.footnotes {
+    page-break-before: always;
+}
+
+/*
+@font-face {
+    font-family: DejaVuSans;
+    font-style: normal;
+    font-weight: normal;
+    src:url("DejaVuSans-Regular.ttf");
+}
+*/
+
+/* This defines styles and classes used in the book
+body { margin: 5%; text-align: justify; font-size: medium; }
+code { font-family: monospace; }
+h1 { text-align: left; }
+h2 { text-align: left; }
+h3 { text-align: left; }
+h4 { text-align: left; }
+h5 { text-align: left; }
+h6 { text-align: left; }
+h1.title { }
+h2.author { }
+h3.date { }
+*/
+ol.toc { padding: 0; margin-left: 1em; }
+ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+

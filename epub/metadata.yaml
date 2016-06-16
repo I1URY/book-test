@@ -1,0 +1,19 @@
+---
+title:
+- type: main
+  text: Diario in Codice @ Game Over Room
+- type: subtitle
+  text: Riassunto dell'incontro tenutosi il 19 Maggio 2016
+creator:
+- role: author
+  text: Nicola Ariutti
+- role: editor
+  text: Nicola Ariutti
+language: it-IT
+
+#identifier:
+#- scheme: DOI
+#  text: doi:10.234234.234/33
+publisher:  limulo.net
+rights: © 2016 Nicola Ariutti, CC BY-SA 4.0
+---
