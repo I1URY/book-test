@@ -4,98 +4,100 @@ Innanzi tutto mi presento: mi chiamo Nicola e sono da sempre un grande appassion
 
 Assieme alla mia compagna Valentina, mi dedico a tempo pieno al progetto [limulo.net](http://www.limulo.net/it/templates/main-menu.php), un sito internet e un raccoglitore di idee e approfondimenti attorno al suono, alla computer science, ai videogiochi e alle nuove tecnologie!
 
-Il 19 Maggio i ragazzi del gruppo _Game Over_ hanno organizzato un incontro presso la Game Over Room al Leoncavallo a Milano, dandomi così la possibilità di presentare il mio ultimo progetto: **Diario in codice**.
+Il 19 Maggio i ragazzi del gruppo _Game Over_ hanno organizzato un incontro presso la Game Over Room al Leoncavallo a Milano, dandomi la possibilità di presentare il mio ultimo progetto: **Diario in codice**.
 
-Durante l'incontro ho raccontato il progetto ai presenti e assieme abbiamo discusso sugli argomenti e le tematiche associate. Con questo piccolo riassunto mi piace raccontare anche a te quanto è stato detto durante quella serata.
+Durante l'incontro ho raccontato il progetto ai presenti e abbiamo discusso assieme sugli argomenti e le tematiche ad esso associate. Con questo piccolo riassunto vorrei poter raccontare anche a te quanto è stato detto durante quella serata.
  
 ## Di cosa si tratta?
 
-Il progetto si intitola **Diario in Codice** ed è un libro per imparare le basi della programmazione, pensato per chiunque voglia cominciare a scrivere i propri programmi per computer. 
+Il progetto si chiama **Diario in Codice**, è un libro/manuale per imparare le basi della programmazione, pensato per chiunque voglia cominciare a scrivere i propri programmi per computer. 
 
-Il libro è autoedito e supportato dai lettori, inoltre sarà rilasciato con una licenza di tipo permissiva (fra poco maggiori dettagli).
+Il libro è autoedito,  la sua realizzazione è stata supportata dai futuri lettori ed  inoltre sarà rilasciato con una licenza di tipo permissiva (fra poco maggiori dettagli).
 
 ## Come nasce?
 
-Da sempre, quando studio o approfondisco qualche nuovo argomento sono solito prendere appunti, scrivere su carta i concetti salienti e fissare i miei ragionamenti. La cosa mi aiuta a memorizzare e a collegare tra loro diversi aspetti della materia come pure tematiche diverse da diverse discipline.
+Da sempre, quando studio un nuovo argomento o approfondisco un concetto sono solito prendere appunti, scrivere su carta i concetti più importanti e fissare in parole i miei ragionamenti. Questo mi aiuta a memorizzare meglio i diversi aspetti della materia e semplifica l'emergere di collegamenti interdisciplinari/tra varie discipline.
 
-Da alcuni anni mi sono avvicinato al mondo della programmazione e, così facendo, raccolto ormai un discreto quantitativo di materiale, mi è sorta spontanea una domanda: "perchè non condividerlo? in fondo se questo materiale è stato utile per me, allora potrebbe esserelo anche per altri!"
+Da alcuni anni mi sono avvicinato al mondo della programmazione e, così facendo, ho raccolto un discreto quantitativo di materiale, tanto che mi sono chiesto: "Perchè non condividerlo? In fondo, se questo materiale è stato utile per me potrebbe esserelo anche per altri!"
 
-Con la **condivisione** si vince sempre in due. Il primo a goderne è colui che riceve: egli può così basarsi sull'opera altrui per risparmiare tempo e fatica. Al contempo ne gode anche colui che dà perchè così facendo crea un legame con gli atri da cui può nascere un confronto construttivo. L'autore che condivide, ricevendo feedback dall'utente, può imparare nuove cose e ottenere consigli su come migliorare la propria opera.
+Con la **condivisione** si vince sempre in due. Il primo a goderne è chi riceve che si  può basare sull'opera altrui guadagnando in tempo e fatica. Al contempo ne gode anche chi dà perchè, così facendo, crea un legame con gli atri da cui può nascere un confronto construttivo. L'autore che condivide, ricevendo feedback dall'utente, può imparare nuove cose e ottenere utili consigli su come migliorare la propria opera.
 
 ## Perchè Diario?
 
-Il libro quindi nasce da una esperienza personale: "diario" mi è sembrato il termine più adatto. La parola "diario" inoltre mi fa pensare al susseguirsi dei giorni: una sorta di percorso come quello che si intraprende ogni qualvolta si voglia l'imparare a fondo qualche cosa di nuovo, un percorso alle volte lungo altre volte meno, ma fatto sempre di tanti piccoli passi, uno dopo l'altro.
+Il libro nasce quindi da un'esperienza personale: "diario" mi è sembrato il termine più adatto. La parola "diario" mi rimanda anche al susseguirsi dei giorni, ad una sorta di percorso, come quello che si intraprende ogni qualvolta si voglia imparare qualche cosa di nuovo; un percorso alle volte lungo altre volte meno, ma fatto sempre di tanti piccoli passi, uno dopo l'altro.
 
 ## Perchè programmare?
 
-Tanto per cominciare perchè è facile! 
+Tanto per cominciare, perchè è facile! 
 
-Oggi non potrebbe esserci momento migliore per imparare a programmare: le risorse per potersi avvicinare a questo mondo sono veramente tantissime. 
+Oggigiorno non potrebbe esserci momento migliore per imparare a programmare: le risorse per potersi avvicinare a questo mondo sono veramente tantissime. 
 
-La rete è di sicuro la risorsa più ricca: si possono trovare blog, articoli e forum dedicati all'argomento.
-Oggi poi, grazie al web 2.0, con il solo ausilio di un browser, si può imparare a programmare direttamente sul web, in modo interattivo, facendo esercizi e verificado subito i propri progressi.
+La rete è di sicuro la risorsa più ricca: si possono trovare blogs, articoli e forums dedicati all'argomento.
+Grazie poi al web 2.0, con il solo ausilio di un browser, si può imparare a programmare direttamente sul web in modo interattivo, facendo esercizi e verificado subito i propri progressi.
 
-In aggiunta ci sono gli strumenti software che, se scaricati e installati sul proprio computer, amplificano di molto la possibilità per sperimentare e applicare quanto si sta apprendendo (eccoti una breve lista, solo per citare i principali: [Processing](https://processing.org/), [Python](https://www.python.org/), [Scratch](https://scratch.mit.edu/) e [Arduino](https://www.arduino.cc/)). Ne parleremo meglio tra poco ma è bene sottilinearlo subito: la maggiorparte di questi strumenti sono **liberi**!
+In aggiunta a tutto ciò ci sono gli strumenti software veri e propri (i programmi) da installare sul proprio computer che permettono di ampliare le possibilità offerte dal web di sperimentare e applicare quanto si sta apprendendo (eccoti una breve lista, solo per citare i principali: [Processing](https://processing.org/), [Python](https://www.python.org/), [Scratch](https://scratch.mit.edu/) e [Arduino](https://www.arduino.cc/)). Ne parleremo meglio tra poco, ma è bene accennarlo fin da subito: la maggiorparte di questi strumenti sono **liberi**!
 
-Che dire poi dei libri; la rete è anche un raccoglitore di informazioni su autori e pubblicazioni scritte sull'argomento. In somma come puoi vedere siamo ormai immersi in una miriade di possibilità, adatte a qualsiasi gusto e preferenza.
+Infine, come non citare i libri; la rete è anche un vastissimo raccoglitore di informazioni su autori e pubblicazioni su qualsiasi argomento legato alla programmazione.
+Insomma, come puoi vedere siamo ormai immersi in una miriade di possibilità, adatte a qualsiasi gusto e preferenza.
 
 Programmare ci fa capire fondamentalmente questo:
 
 > [...] i computer sono [...] stupidi. A differenza degli esseri umani, possiedono la sincera e profonda stupidità degli oggetti inanimati.
 
-E' una frase di Bruce Sterling, scrittore e giornalista americano e si occupa di tecnologia e informatica e non solo. La frase è tratta dal suo libro _Giro di vite contro gli hackers_ del 1992 ^[Bruce Sterling, "**Giro di Vite contro gli hackers**", Mondadori 2004. Titolo originale dell'opera "The Hacker Crackdown";].
+E' una frase di Bruce Sterling, scrittore e giornalista americano che si occupa di tecnologia e informatica e non solo. La frase è tratta dal suo libro _Giro di vite contro gli hackers_ del 1992 ^[Bruce Sterling, "**Giro di Vite contro gli hackers**", Mondadori 2004. Titolo originale dell'opera "The Hacker Crackdown";].
 
-Un'affermazione forte e chiara: il computer è una macchina stupida Personalmente, fino a diverso tempo fa, non avevo un'opinione in merito: ero solito lavorare al comptuer senza conoscerlo più di tanto, mi bastava usarlo solo come strumento per le mie esigenze quotidiane, interagendo l'indispensabile. 
+Un'affermazione forte e chiara: il computer è una macchina stupida. Per quanto mi riguarda, fino a qualche tempo fa non avevo un'opinione in merito: ero solito lavorare al comptuer senza conoscerlo più di tanto. Mi bastava usarlo solo come strumento per le mie esigenze quotidiane, interagendo non più dell'indispensabile. 
 
-Programmare ti insegna ad usare il computer in modi nuovi, ad essere padrone di sfruttarlo a fondo, quando l'ho scoperto è stato un po come accorgersi di punto in bianco che la propria _cassetta degli attrezzi_ non conteneva soltanto un semplice martello ma al suo interno nasconde anche un intero set di cacciaviti, alcune pinze, chiavi, brugole e così via.
+Programmare ti insegna ad usare il computer in modi nuovi, ad esserne padrone e sfruttarlo a fondo.  Quando l'ho scoperto è stato come accorgersi che la propria _cassetta degli attrezzi_ non conteneva soltanto un semplice martello, ma al suo interno potevo trovare anche un intero set di cacciaviti, alcune pinze, chiavi, brugole e così via.
 
-Il computer è quindi una macchina dalle enormi potenzialità ma che fondamentalmente, come dice Sterling, non sa che cosa fare. Se il computer fa qualcosa, lo fa soltanto perchè qualcuno gli ha detto **come** farlo, lo ha istruito, gli ha fornito delle istruzioni: in altre parole lo ha programmato.
+Il computer è una macchina dalle enormi potenzialità ma che, fondamentalmente, come dice Sterling, non sa che cosa fare. Se il computer fa qualcosa, lo fa soltanto perchè qualcuno gli ha detto **come** farlo, lo ha istruito, gli ha fornito delle istruzioni: in altre parole lo ha programmato.
 
-Ci sono molti modi diversi per fornire istruzioni al computer, ma tutti condividono tra loro un set di regole di base, una sorta di **abc**, di fondamenti, gli stessi che esamineremo a fondo nel nostro percorso.
+Ci sono molti modi diversi per fornire istruzioni al computer, ma tutti condividono tra loro un set di regole di base, una sorta di **ABC**, gli stessi fondamenti che esamineremo a fondo durante il nostro percorso.
 
-Hai mai avuto bisogno di completare un lavoro, magari nulla di troppo complicato, per il quale il computer di sicuro ti sarebbe stato d'aiuto e di constatare che:
+Hai mai avuto bisogno di completare un lavoro, magari nulla di troppo complicato, per il quale il computer di sicuro ti sarebbe stato d'aiuto e di dover constatare che:
 
 1. il programma per computer che ti avrebbe fatto comodo non esisteva?
-2. oppure che, pur esistendo, il programma non funzionava sul tuo computer o non era nemmeno disponibile per il tuo sistema operativo?
-3. oppure ancora, pur disponibile e funzionante, avresti dovuto acquistarlo a caro prezzo e sottoscrivere una licenza d'uso molto restrittiva?
+2. pur esistendo, il programma non funzionava sul tuo computer o non era nemmeno disponibile per il tuo sistema operativo?
+3. pur disponibile e funzionante, avresti dovuto acquistarlo a caro prezzo e sottoscrivere una licenza d'uso molto restrittiva?
 
-Ognuno di questi possibili scenari costituisce una barriera per colpa della quale il nostro lavoro è reso inutilmente più complicato. 
+Ognuno di questi possibili scenari costituisce una barriera per colpa della quale il nostro lavoro è reso inutilmente più complicato o oneroso. 
 
-Si tratta soltanto di un piccolo esempio che ci mostra però che è proprio in simili situazioni che l'_abc_ di cui abbiamo parlato ci viene in aiuto.
+E' solo un piccolo esempio, ma ci mostra che proprio in simili situazioni che l'_ABC_ di cui abbiamo parlato ci viene in aiuto.
 
-Conoscendo l'_abc_, possiamo essere noi ad insegnare al computer quale sia il nostro problema e ad istruirlo su come risolverlo al posto nostro. 
+Conoscendo l'_ABC_, possiamo essere noi ad istruire il computer perché risolva al nostro posto il nostro problema.
 
-Scrivendo noi stessi i nostri piccoli programmi non siamo più ostacolati da alcuna barriera, siamo anzi liberi potenzialmente di fare tutto quello che vogliamo (con il computer almeno).
+Scrivere noi stessi i nostri programmi ci libera da ogni barriera, siamo liberi di fare potenzialmente tutto quello che ci passa per la testa (con il computer almeno).
 
-Un'altra cosa che ho imparato con la programmazione è che gli strumenti che siamo soliti utilizzare sul computer ogni giorno, sono in genere delle _scatole opache_, dei contenitori _chiusi_ ermeticamente.
+Un'altra cosa che ho imparato grazie alla programmazione è che gli strumenti che siamo soliti utilizzare sul computer ogni giorno, sono di solito delle _scatole opache_, dei contenitori _chiusi_ ermeticamente.
 
-Per noi è impossibile guardare al loro interno nè per soddisfare una nostra eventuale curiosità sui loro meccanismi di funzionamento nè tantomento per modificarli, mettendoci mano personalmente in modo da adattare possibilmente il loro comportamento per meglio adattarli alle nostre esigenze.
+Per noi è impossibile guardare al loro interno nè per soddisfare una nostra eventuale curiosità sui loro meccanismi di funzionamento nè tantomento per modificarli in modo da adattarne il comportamento alle nostre esigenze.
 
-A ben pensarci è un po' come se la nostra automobile avesse il cofano motore completamente saldato al resto della carrozzeria: sarebbe così impossibile aprirlo per sbirciare il movimento delle varie parti meccaniche, proprio come sarebbe impossibile intervenire in qualche modo per ripararlo in caso di guasto.
+A ben pensarci è come se la nostra automobile avesse il cofano motore completamente saldato al resto della carrozzeria: sarebbe impossibile aprirlo per sbirciare il movimento delle varie parti meccaniche, proprio come sarebbe impossibile intervenire per ripararlo in caso di guasto.
 
-Perchè no mi chiedo? magari abbiamo anche una buona manualità e ce la caviamo discretamente con i motori.
+Perchè non si dovrebbe poter farlo, mi chiedo? 
 
-Fortunatamente esistono moltissimi altri programmi del tipo _ci si può guardare dentro_, i quali rispettano l'utente e garantiscono una maggiore libertà. 
+Fortunatamente, esistono moltissimi altri programmi progettati e rilasciati in modo che _ci si possa guardare dentro_. Questi programmi rispettano l'utente e garantiscono una maggiore libertà. 
 
-Si tratta di strumenti che lasciano la possibilità non solo di esaminarli in profondità ma anche di agire sul loro comportamento, modificandone alcune delle istruzioni o aggiungendone di nuove. 
+Si tratta di strumenti che lasciano la possibilità non solo di esaminarli in profondità ma anche di agire sul loro comportamento, modificandone alcune istruzioni o aggiungendone di nuove. 
 
-Questi programmi sposano la filosofia così detta del **software libero**, una filosofia secondo la quale la condivisione, in questo caso delle istruzioni che costituiscono il programma per computer, non può fare altro che migliorare il programma stesso, la nostra esperienza d'uso del computer e la nostra libertà come individui.
+Questi programmi sposano la filosofia del **software libero** secondo la quale la condivisione (in questo caso delle istruzioni che costituiscono il programma), non può che migliorare il programma stesso, la nostra esperienza d'uso del computer e la nostra libertà come individui.
 
-In passato, si parla dei primi anni '50, i computer non solo erano macchinari giganteschi, grandi quanto armadi tanto da occupare intere stanze, erano anche pochissimi, disseminati per lo più presso alcune università e i pochi istituti di ricerca che potevano permetterseli. 
+In passato (si parla dei primi anni '50) i computer non solo erano macchinari giganteschi, grandi quanto armadi che occupavano intere stanze, ma erano anche pochissimi, disseminati per lo più presso alcune università e i pochi istituti di ricerca che potevano permetterseli. 
 
-Questi computer erano davvero particolarissimi e dal funzionamento molto complicato; scrivere programmi per queste macchine era infinitamente più difficile rispetto ad oggi, per fortuna però, all'epoca il software era libero: i programmatori condividevano liberamente le proprie idee e intuizioni, i propri ragionamenti e allo stesso modo anche i propri programmi.
+Questi computer erano davvero molto particolari e dal funzionamento molto complesso; scrivere programmi per queste macchine era infinitamente più difficile rispetto ad oggi. Per fortuna, però, all'epoca il software era libero: i programmatori condividevano liberamente le proprie idee e intuizioni, i propri ragionamenti e allo stesso modo anche i propri programmi.
 
-Per le aziende produttrici di hardware, il fatto che, così facendo, i ragionamenti e le intuizioni dei programmatori si diffondessero, non costituiva un problema. Un programma scritto per uno di quei computer in fondo, non avrebbe mai potuto funzionare su nessun'altro: i meccanismi e le peculiarità di ciascuno li rendevano assolutamente incompatibili tra loro.
+Per le aziende produttrici di hardware, il fatto che i ragionamenti e le intuizioni dei programmatori tradotte in codice si diffondessero, non costituiva un problema. D'altra parte, un programma scritto per uno di quei computer non avrebbe mai potuto funzionare su nessun'altro: i meccanismi e le peculiarità di ciascuno li rendevano assolutamente incompatibili tra loro.
 
-In seguito, col passare degli anni l'hardware cominciò ad uniformarsi, il computer nel frattempo si fece sempre più personal ed entrò gradualmente nelle vite di sempre più persone. L'hardware, non più così diverso tra un computer e l'altro, permetteva ad un programma di funzionare molto più facilmente e così di diffondersi in modo più rapido.
+In seguito l'hardware cominciò ad uniformarsi, il computer si fece sempre più personal ed entrò gradualmente nelle vite di numero sempre crescente più persone. L'hardware, non più così diverso da computer a computer, permetteva ad un programma di funzionare molto più facilmente su macchine diverse e, quindi, di diffondersi in modo più rapido.
 
-La vecchia abitudine dei programmtori di scambiarsi informazioni e condividere le istruzioni dei propri programmi stava ora diventando una minaccia per le quelle stesse aziende.
+La vecchia abitudine dei programmtori di scambiarsi informazioni e condividere le istruzioni dei propri programmi stava ora diventando una minaccia per le quelle stesse aziende che avevano appoggiato tale pratica in passato.
 
-Ora, specie con l'hardware che diventava progressivamente sempre più economico, quelle videro nel software il loro prossimo core business. Fu allora che sempre più di quelle aziende informatiche cominciarono a imbrigliare la precedente libertà, dotando i software di licenze restrittive e perseguendo legalmente ogni abuso.
+Con il progressivo calo di prezzo dell'hardware le aziende videro nel software il loro prossimo core business. Fu in questo momento storico che le aziende informatiche cominciarono a imbrigliare la libertà precedentemente accordata, dotando i software di licenze restrittive e perseguendo legalmente ogni abuso.
+ 
 
-Il cambio di direzione seppure graduale fu eblematico, tanto che per chi aveva sempre vissuto nello spirito condivisione e si trovava ora a cavallo del cambiamento di tendenza, si sentì imprigionato in una forzatura priva di senso, nociva per la libertà così come per la cultura. 
+Il cambio di direzione, seppure graduale, fu nettamente percepito da chi aveva sempre vissuto nello spirito di condivisione e si venne improvvisamente a trovare nel mezzo del cambiamento di tendenza; queste persone si sentirono imprigionate in una forzatura priva di senso, nociva per la libertà così come per la cultura. 
 
-Fu in quel momento storico che prese forma la filosofia del **software libero** e ne vennerò formalizzati i principi ad opera di Richard Stallman.
+Fu in questo momento storico che prese forma e vennero formalizzati i principi della filosofia del **software libero** ad opera di Richard Stallman.
 
 ## Libertà
 
@@ -104,9 +106,9 @@ Fu in quel momento storico che prese forma la filosofia del **software libero** 
 
 Richard Stallman è un informatico americano, attivista e fondatore del progetto [GNU](https://www.gnu.org/) e della [Free Software Foundation](https://www.fsf.org/), organizzazione no-profit che supporta il movimento software libero. 
 
-Tale movimento promuove l'universale libertà di studio, di distribuzione, creazione e modifica del software per computer. Se vuoi farti una idea più completa a riguaro ti consiglio caldamente il libro _Software Libero, Pensiero Libero_ ^[Richard Stallman, "**Software Libero, Pensiero Libero**", Nuovi Equilibri, 2003. Titolo originale dell'opera: "Free Software, Free Society: The Selected Essays of Richiard M. Stallman";].
+Tale movimento promuove l'universale libertà di studio, di distribuzione, creazione e modifica del software per computer. Se vuoi farti un'idea più completa a riguaro ti consiglio caldamente il libro _Software Libero, Pensiero Libero_ ^[Richard Stallman, "**Software Libero, Pensiero Libero**", Nuovi Equilibri, 2003. Titolo originale dell'opera: "Free Software, Free Society: The Selected Essays of Richiard M. Stallman";].
 
-Dalla sua nascita, la filosofica del software libero e le idee da questo promosse si sono diffuse enormemente toccando e influenzando tutti i campi delle arti e del sapere umano, non soltanto il mondo del software. 
+Dalla sua nascita, la filosofia del software libero e le idee da questa promosse si sono diffuse enormemente raggiungendo e influenzando tutti i campi delle arti e del sapere umano, non soltanto il mondo del software. 
 
 Basta fare una veloce ricerca su Wikipedia per rendersi conto di quante siano oggi le declinazioni di questa filosofia di condivisione e di apertura. Eccori solo alcuni esempi:
 
@@ -124,54 +126,54 @@ Si tratta del tipico simbolo che caratterizza una particolare tipologia di licen
 
 Prima ancora però, [Creative Commons](https://creativecommons.org/) è il nome dell'organizzazione no-profit fondata nel 2001 dal giurista statunitense Lawrence Lessig, la cui missione è quella di ampliare il numero di opere disponibili per la condivisione e l'utilizzo libero. 
 
-Tutto questo è appunto possibile grazie alla licenza omonima, lo strumento legale che Lessig ha creato appositamente strizzando l'occhio al movimento del software libero.
+Tutto questo è possibile grazie alla licenza omonima, lo strumento legale che Lessig ha creato appositamente strizzando l'occhio al movimento del software libero.
 
-Creative Commons è quindi il sistema relativamente nuovo che chiunque può utilizzare per licenziare il proprio lavoro e tutelare così i propri diritti sull'opera e al contempo garantire all'untente un certo grado di libertà.
+Creative Commons è il sistema, relativamente nuovo, che chiunque può utilizzare per licenziare il proprio lavoro e tutelare così i propri diritti sull'opera garantendo al contempo all'utente un certo grado di libertà nell'uso.
 
-Siete musicisti? disegnatori, pittori, scrittori? state per pubblicare il vostro prossimo articolo? magari un modello 3D oppure una bella fotografia? Potreste considerare di licenziare la vostra prossima opera con licenza Creative Commons, chiara, modulare e semplicissima, date un occhiata al [tool disponibile on-line](https://creativecommons.org/choose/)! 
+Siete musicisti? Disegnatori, pittori, scrittori? State per pubblicare il vostro prossimo articolo? Magari un modello 3D oppure una bella fotografia? Potreste considerare di licenziare la vostra prossima opera con licenza Creative Commons, chiara, modulare e semplicissima. Date un occhiata al [tool disponibile on-line](https://creativecommons.org/choose/)! 
 
 Così facendo permetterete agli altri di godere del vostro lavoro senza però perdere i vostri diritti, innescando il così detto "circolo virtuoso" per liberare la cultura. A tale scopo ti consiglio caldamente il libro di Lessig intitolato _Cultura libera_^[Lawrence Lessig, "**Cultura Libera**", Apogeo 2005. Titolo originale dell'opera: "Free Culture";], praticamente il manifesto del Creative Commons! 
 
 >Chi ricava una idea da me, ricava conoscenza senza diminuire la mia: come chi accende la sua candela con la mia riceve luce senza lasciarmi al buio.
 <address>Thomas Jefferson</address>
 
-Ecco giusto un'altra frase interessante secondo me perchè riassume brevemente i principi di cui abbiamo discusso. Perchè ti annoio con tutto questo discorso sulla libertà e sulla condivisione? Presto detto: il libro _Diario in codice_ sarà rialsciato proprio con una licenza di questo tipo, nello specifico una licenza denominata [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/). 
+Ecco giusto un'altra frase secondo me interessante che riassume brevemente i principi di cui abbiamo discusso. Perchè ti annoio con tutto questo discorso sulla libertà e sulla condivisione? Presto detto: il libro _Diario in codice_ sarà rialsciato proprio con una licenza di questo tipo, nello specifico una licenza denominata [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/). 
 
-Il lettore, a patto di attribuire sempre all'autore la paternità dell'opera originale, sarà così libero di condividere e ridistribuire copie del materiale attraverso quasiasi mezzo o formato, sarà libero inoltre di trasformare e adattare l'opera a propria discrezione a patto soltanto che il risultato, se ricondiviso, venga distribuito usando la stessa licenza dell'originale.
+Il lettore, a patto di attribuire sempre all'autore la paternità dell'opera originale, sarà libero di condividere e ridistribuire copie del materiale attraverso quasiasi mezzo o formato, sarà libero inoltre di trasformare e adattare l'opera a propria discrezione a patto soltanto che il risultato, se ricondiviso, venga distribuito usando la stessa licenza dell'originale.
 
 ## Il libro
 
-Con _Diario in codice_ mi piacerebbe condividere quanto ho appreso sulla programmazione. Le tematiche che andremo ad eseminare potrebbero a prima vista sembrare un po' astratte forse, per questo ho pensato di affiancare al nostro percorso uno strumento per restituire una maggiore concretezza: si tratta di [Arduino](https://www.arduino.cc/).
+Con _Diario in codice_ mi piacerebbe condividere quanto ho appreso sulla programmazione. Le tematiche che andremo ad esaminare potrebbero a prima vista sembrare un po' astratte. Per questo ho pensato di affiancare al nostro percorso uno strumento per restituire una maggiore concretezza: si tratta di [Arduino](https://www.arduino.cc/).
 
-Se non lo conosci, Arduino è una piccola scheda elettronica, grande quando la tesserina del supermarket. Può essere collegata al nostro computer attraverso un semplice cavo USB e usata per ampliarne le capacità. 
+Se non lo conosci, Arduino è una piccola scheda elettronica, grande quando una carta di credito. Può essere collegata al nostro computer attraverso un semplice cavo USB e usata per ampliarne le capacità. 
 
 Grazie ad Arduino il nostro computer sarà in grado di captare stimoli provenienti dal mondo esterno come l'umidità dell'aria, l'intensità luminosa o la forza meccanica attraverso diversi tipi di sensore.
 
-Tramite la scheda inoltre, il computer sarà anche in grado di inviare segnali verso l'esterno, interagendo con il mondo fisico tramite dispositivi detti attuatori (led, motorini elettrici, piccoli altoparlandi o schermi LCD).
+Inoltre, tramite la scheda, il computer sarà anche in grado di inviare segnali verso l'esterno, interagendo con il mondo fisico tramite dispositivi detti attuatori (led, motorini elettrici, piccoli altoparlandi o schermi LCD).
 
-Se da un lato occorrerà imparare qualche nozione base di elettrotecnica (_Diario in codice_ parlerà anche di questo), dall'altro vedremo come la piattaforma Arduino sia l'ideale per comprendere l'importanza dei un programmi per computer, programmi che in questo caso ci permetteranno di interagire direttamente con il mondo reale! 
+Se da un lato occorrerà imparare qualche nozione di base di elettrotecnica (_Diario in codice_ parlerà anche di questo), dall'altro vedremo come la piattaforma Arduino sia l'ideale per comprendere l'importanza dei programmi che in questo caso ci permetteranno di interagire direttamente con il mondo reale! 
 
-Ciliegina sulla torta: il progetto Arduino è perfettamente allineato alla filosifia di libertà che ci sta tanto a cuore! Per di più Arduino ci fa conoscere un altro paio di termini molto interessanti [open hardware](https://en.wikipedia.org/wiki/Open-source_hardware) e [open design](https://en.wikipedia.org/wiki/Open_design): il progetti e i disegni delle schede Arduino sono licenziate con licenza Creative Commons e permettono in pratica, a chiunque disponga dei mezzi, di produrle o crearne versioni alternetive liberamente.
+Ciliegina sulla torta: il progetto Arduino è perfettamente allineato alla filosifia di libertà che ci sta tanto a cuore! Per di più Arduino ci fa conoscere un altro paio di termini molto interessanti [open hardware](https://en.wikipedia.org/wiki/Open-source_hardware) e [open design](https://en.wikipedia.org/wiki/Open_design): il progetti e i disegni delle schede Arduino sono licenziate con licenza Creative Commons e permettono liberamente a chiunque disponga dei mezzi di produrle o crearne versioni alternetive.
 
 ## Selfpublishing
 
 Dopo aver raccolto e dato forma a tutti i miei appunti sulla programmazione mi sono chiesto: come si fa a pubblicarli?
 
-A quel punto mi è tornato alla mente [Daniel Shiffman](http://shiffman.net/) (un simpatico docente americano) e il suo progetto [Nature of Code](http://natureofcode.com/), un libro che lo stesso Shiffman ha pubblicato in seguito al successo di una campagna di raccolta fondi on-line. Anche io avevo partecipato a quella campagna: dando il mio contributo avevo infine ricevuto il libro di Shiffman. 
+A quel punto mi è tornato alla mente [Daniel Shiffman](http://shiffman.net/) (un simpatico docente americano) e il suo progetto [Nature of Code](http://natureofcode.com/), un libro che lo stesso Shiffman ha pubblicato in seguito al successo di una campagna di raccolta fondi on-line. Anche io ho partecipato a quella campagna dando il mio contributo e ricevendo infine il libro. 
 
 Mi sono ricordato che in quella circostanza l'autore aveva deciso di non rivolgersi ad un editore ma di provvedere autonomamente alla pubblicazione del proprio lavoro.
 
-Da quanto ho potuto capire in questi mesi, il percorso di pubblicazione tradizionale prevede che l'autore si rechi presso un editore con il proprio manoscritto e glielo sottoponga per un esame attento. 
+Da quanto ho potuto capire in questi mesi, il percorso di pubblicazione tradizionale prevede che l'autore si rechi presso un editore con il proprio manoscritto e glielo sottoponga per un esame. 
 
-L'editore è colui che dispone dei mezzi tecnici per riprodurre l'opera e distribuirla capillarmente presso librerie e negozi sul territorio nazionale ma non solo.
+L'editore è colui che dispone dei mezzi tecnici per riprodurre l'opera e distribuirla capillarmente presso librerie e negozi sul territorio nazionale e non solo.
 
-L'editore inoltre ha facoltà di agire attivamente sull'opera, modificandone in parte il contenuto e la struttura a propria discrezione.  Inoltre, nella maggiorparte dei casi, egli applica all'opera una licenza tradizionale, del tipo "tutti i diritti riservati". 
+L'editore inoltre ha facoltà di agire attivamente sull'opera, modificandone in parte il contenuto e la struttura a propria discrezione.  Nella maggiorparte dei casi, egli applica all'opera una licenza tradizionale, del tipo "tutti i diritti riservati". 
 
-Seguire l'esempio di Shiffman, ho pensato, mi avrebbe invece garantito il pieno controllo sul contenuto del mio libro e, sebbene una notevole quantità di lavoro probabilmente avrebbe potuto essere velocizzata se rimessa nelle mani di un editore esperto, pubblicare autonomamente mi avrebbe permesso di applicare al libro la licenza permissiva con la quale volevo rilasciarlo.
+Seguire l'esempio di Shiffman mi avrebbe invece garantito il pieno controllo sul contenuto del mio libro; nelle mani di un editore esperto la gran mole di lavoro sarebbe stata velocizzata, ma mi sono reso conto che pubblicare autonomamente mi avrebbe permesso di applicare al libro la licenza permissiva con la quale volevo rilasciarlo.
 
-E' stato così che ho scoperto il _self-publihshig_ (o autoedizione in italiano): esiste una miriade di aziende on-line che mettono al servizio degli autori professionalità e strumenti per la stampa, vedita e distribuzione delle opere editoriali, e che, senza entrare nel merito dei contenuti, garantisco così una grande autonomia ed indipendenza. 
+E' stato così che ho scoperto il _self-publihshig_ (o autoedizione in italiano): esistono una miriade di aziende on-line che mettono al servizio degli autori professionalità e strumenti per la stampa, vedita e distribuzione delle opere editoriali, e che, senza entrare nel merito dei contenuti, garantisco una grande autonomia ed indipendenza. 
 
-Inoltre, stando almeno alle informazioni cho raccolto fino ad ora, quando si decide di pubblicare utilizzando uno di questi servizi di self-publishing, non è prevista alcuna esclusiva, per cui è possibile stampare e vendere il proprio libro usando contemporaneamente qualche altro servizio.
+Stando almeno alle informazioni che ho raccolto finora, quando si decide di pubblicare utilizzando uno di questi servizi di self-publishing, non è prevista alcuna esclusiva, per cui è possibile stampare e vendere il proprio libro usando contemporaneamente qualche altro servizio.
 
 Ecco una lista delle principali piattaforme di selfpublishing:
 
@@ -194,19 +196,19 @@ Si tratta in pratica di piccoli programmi informatici inclusi all'interno dei fi
 
 Giusto per fare un esempio, i dispositivi DRM sono quelli che, nel caso di un libro in formato digitale, impediscono all'utente di trarne alcuni estratti attraverso il copia-incolla, oppure impediscono di crearne copie, fosse anche per la sola archiviazione di backup, oppure ancora ne obbligano la lettura soltanto su una specifica marca di lettori ereader.
 
-L'uso dei sistemi DRM, introdotti dai distributori per preservare i diritti d'autore, non è accettato universalmente. I DRM superano talvolta i limiti della legalità, minando la libertà degli utenti e invadendone la privacy, riducendoli in _manette digitali_, [come è li definisce lo stesso Stallman](https://www.mixcloud.com/francesco-luvisin/popolinux-missione-richard-stallman-monza-audio-completo/).
+L'uso dei sistemi DRM, introdotti dai distributori per preservare i diritti d'autore, non è accettato universalmente. I DRM superano talvolta i limiti della legalità, minando la libertà degli utenti e invadendone la privacy, riducendosi ad essere _manette digitali_, [come è li definisce lo stesso Stallman](https://www.mixcloud.com/francesco-luvisin/popolinux-missione-richard-stallman-monza-audio-completo/).
 
-Un tempo, prima dell'avvento di internet, nessuno disponeva dei mezzi tecnici per creare copie: se chiunque all'epoca, avvesso voluto condividere con l'amico il libro che stava leggendo, avrebbe dovuto privarsene per darglielo in prestito. 
+Prima dell'avvento di internet nessuno disponeva dei mezzi tecnici per creare copie: chiunque all'epoca avesse voluto condividere con l'amico il libro che stava leggendo, avrebbe dovuto privarsene per darglielo in prestito. 
 
-Al giorno d'oggi, con la tecnologia di cui disponiamo, potremmo tranquillamente condividere la nostra esperienza con moltissime altre persone senza per questo interrompere la nostra fruizione; è la smplicità di un semplice gesto, basta fare un click e la copia è fatta!
+Al giorno d'oggi, con la tecnologia di cui disponiamo, potremmo tranquillamente condividere la nostra esperienza con moltissime altre persone senza per questo interrompere la nostra fruizione; è la semplicità di un semplice gesto, basta fare un click e la copia è fatta!
 
-Tutti questi sistemi DRM cercano di impedirlo, in qualche modo trasponendo nel presente e nel prossimo futuro, le stesse difficoltà tecniche appartenenti ad un'epoca passata, di fatto annullando tutti i vantaggi che derivano dall'uso delle moderne tecnologie; impedendo in altri termini la diffusione libera delle idee e della cultura.
+Tutti questi sistemi DRM cercano di impedirlo, trasponendo nel presente e nel prossimo futuro le stesse difficoltà tecniche appartenenti ad un'epoca passata e annullando di fatto tutti i vantaggi che derivano dall'uso delle moderne tecnologie; impedendo in altri termini la diffusione libera delle idee e della cultura.
 
-Personalmente trovo che tutto questo suoni molto anacronistico: se una tecnologia comporta dei miglioramenti e dei vantaggi per tutti, perchè limitarla? Perchè non sfruttarla completamente? Evidentemente le logiche del profitto hanno la meglio in queste sitauzioni.
+Personalmente trovo che tutto questo suoni molto anacronistico: se una tecnologia comporta dei miglioramenti e dei vantaggi per tutti, perchè limitarla? Perchè non sfruttarla completamente? Evidentemente le logiche del profitto hanno la meglio in queste situazioni.
 
-Se l'utente è consapevole della tecnologia che sta utilizzando perchè non dovrebbe goderne; questi sistemi di limitazione sembrano per l'appunto sottovalutare presuntuosamente l'intelligenza delle persone e considerarla invece nell'ottica di mercato per cui le esperienze dello scambio e della fruizione vengono limitate perchè se ne può trarre profitto.
+Se l'utente è consapevole della tecnologia che sta utilizzando è giusto che ne possa godere; questi sistemi di limitazione sembrano sottovalutare presuntuosamente l'intelligenza delle persone e considerare invece solo l'ottica di mercato per cui le esperienze dello scambio e della fruizione vengono limitate e vanno eliminate perchè non se ne può trarre profitto.
 
-A tale proposito, soprattutto nel rispetto di quanto abbiamo detto fino ad ora in merito alla libertà della cultura e della condivisione, cercherò di valutare attentamente quali canali di distribuzione utilizzare per metter in vendita il libro. 
+Nel rispetto di quanto abbiamo detto fino ad ora in merito alla libertà della cultura e della condivisione, cercherò, a tal proposito, di valutare attentamente quali canali di distribuzione utilizzare per metter in vendita il libro. 
 
 Possibilmente dovrò capire quali di questi pretendano l'applicazione di sistemi proprietari di controllo dei diritti e quali invece risultino essere più permissivi. 
 
@@ -216,13 +218,14 @@ Un altro punto di merito per StreetLib è il fatto che permette di usare un cana
 
 Poco fa abbiamo parlato di Daniel Shiffman e del suo libro non solo autoedito ma anche finanziato da una campagna di raccolta fondi attraverso la rete.
 
-Quando ho deciso di pubblicare ho deciso di provare anche io. Crowdfunding è il termine che si usa in questi casi, letteralmente finanziamento dalla folla. Uno strumento che chiunque abbia un'idea per la testa o un progetto da realizzare può utilizzare per rivolgersi direttamente a propri potenziali sostenitori, direttamente tramite internet, e raccogliere così i loro contributi.
+Quando ho deciso di pubblicare ho deciso di provare anche io questa nuova modalità di finanziamento. Crowdfunding è il termine che si usa, tradotto letteralmente in finanziamento dalla folla. Chiunque abbia un'idea per la testa o un progetto da realizzare può utilizzare questo strumento per rivolgersi direttamente a propri potenziali sostenitori tramite internet, e raccogliere così i loro contributi.
 
 Avendo partecipato più volte a diverse campagne di crowdfunding in passato, passando da progetti editoriali a videogames a documentari e films, credo che sostenere i nostri progetti preferiti sia estremamente importante. 
 
-Sostenere è da una parte un modo per supportare l'autore del progetto, non solo da un punto di vista economico: dare il proprio contributo è un po' come stringergli la mano, incoraggiarlo nel continuare il proprio lavoro, fargli capire che è sulla strada giusta e che ci sono persone che condividono e apprezzano il suo impegno. 
+Sostenere è da una parte un modo per supportare l'autore del progetto, non solo da un punto di vista economico.
+Dare il proprio contributo è un po' come stringergli la mano, incoraggiarlo nel continuare il proprio lavoro, fargli capire che è sulla strada giusta e che ci sono persone che condividono e apprezzano il suo impegno. 
 
-Allo stesso tempo è un modo per diventare parte integrante del progetto stesso: è anche grazie al nostro aiuto che il progetto ha potuto vedere la luce. Sostenendo diventiamo co-produttori dell'opera, una cosa di cui andare fieri!
+Allo stesso tempo è un modo per diventare parte integrante del progetto stesso dato che è anche grazie al nostro aiuto che il progetto ha potuto vedere la luce. Sostenendo diventiamo co-produttori dell'opera, una cosa di cui andare fieri!
 
 Eccovi un lista delle principali piattaforme di crowdfunding sulle quali ho avuto modo di informarmi in questi mesi:
 
