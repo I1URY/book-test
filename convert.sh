@@ -13,8 +13,9 @@
 #   testo che lo segue, all'interno di una 
 
 clear
-echo "conversione in corso"
+echo "Conversione in ePub in corso..."
 #pandoc --toc --toc-depth=2 -o test.epub intro.md chapter01.md
 pandoc --toc --toc-depth=2 --epub-stylesheet='epub/style.css' --epub-cover-image='epub/cover.png' -o export/book-test.epub  \
-    chapters/01-chapter1.md metadata.yaml 
-echo "conversione ultimata"
+    epub/metadata.yaml \
+    chapters/01-chapter1.md 
+echo "Conversione ultimata!"
