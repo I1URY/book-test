@@ -1,24 +1,49 @@
+/*
+@font-face {
+    font-family: DejaVuSans;
+    font-style: normal;
+    font-weight: normal;
+    src:url("DejaVuSans-Regular.ttf");
+}
+*/
+
 * {
     font-family: serif;
     font-style: normal;
     font-size: normal;
-    text-align: justify;  
 }
 
-body, p.cover {
-    margin: 0;
-    padding: 0;
+body {
+    /*font-family: "Palatino Linotype";
+    widows: 0;
+    orphans: 0;*/
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: justify;
+}
+
+p.cover {
+    margin: 0pt;
+    padding: 0pt;
     text-align: center;
 }
 
 img.cover {
-    /*height: 100%;*/
-    /*width: 100%;*/
+    max-width: 100%;
+    height: 100%;
+}
+
+a {
+    color:#000000;
+    text-decoration: underline
 }
 
 h1, h2, h3, h4, h5 {
     font-family: sans-serif;
     text-align: left;
+    page-break-after: avoid;
 }
 
 blockquote, blockquote p {
@@ -26,7 +51,7 @@ blockquote, blockquote p {
     page-break-inside: avoid;
 }
 
-blockquote address {
+blockquote span {
     font-size: 0.8em;
     text-align: right;
     padding-top: 1em;
@@ -38,19 +63,15 @@ div, p {
     /*display: inline-block;*/
 }
 
-#note {
-    page-break-before: always;
-}
-
 div.figure {
     text-align: center;
     page-break-inside: avoid;
+    font-size: 0.6em
 }
 
 p.caption {
     font-style: italic;
     font-size: 0.8em;
-
 }
 
 sup {
@@ -62,28 +83,18 @@ div.footnotes {
     page-break-before: always;
 }
 
-/*
-@font-face {
-    font-family: DejaVuSans;
-    font-style: normal;
-    font-weight: normal;
-    src:url("DejaVuSans-Regular.ttf");
+#note {
+    page-break-before: always;
 }
-*/
 
-/* This defines styles and classes used in the book
-body { margin: 5%; text-align: justify; font-size: medium; }
-code { font-family: monospace; }
-h1 { text-align: left; }
-h2 { text-align: left; }
-h3 { text-align: left; }
-h4 { text-align: left; }
-h5 { text-align: left; }
-h6 { text-align: left; }
-h1.title { }
-h2.author { }
-h3.date { }
-*/
 ol.toc { padding: 0; margin-left: 1em; }
 ol.toc li { list-style-type: none; margin: 0; padding: 0; }
+
+/* nella TITLE_PAGE */
+h1.title  { text-align: center; }
+h2.author { text-align: center; }
+h3.date   { text-align: center; }
+
+
+
 

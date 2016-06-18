@@ -15,7 +15,12 @@
 clear
 echo "Conversione in ePub in corso..."
 #pandoc --toc --toc-depth=2 -o test.epub intro.md chapter01.md
-pandoc --toc --toc-depth=2 --epub-stylesheet='epub/style.css' --epub-cover-image='epub/cover.png' -o export/book-test.epub  \
-    epub/metadata.yaml \
+
+#pandoc --toc --toc-depth=2 --epub-stylesheet='epub/style.css' --epub-cover-image='epub/cover.png' -o export/book-test.epub  \
+#    epub/metadata.yaml \
+#    chapters/01-chapter1.md 
+
+pandoc -s --toc --toc-depth=2 --epub-stylesheet='epub/style.css' --epub-cover-image='epub/cover.png' -o export/book-test.epub  \
     chapters/01-chapter1.md 
+
 echo "Conversione ultimata!"

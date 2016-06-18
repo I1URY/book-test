@@ -1,3 +1,7 @@
+% Diario in Codice @ Game Over Room
+% Nicola Ariutti
+% 10 Giugno 2016
+
 # Introduzione
 
 Innanzi tutto mi presento: mi chiamo Nicola e sono da sempre un grande appassionato di suono e di tecnologie informatiche. Dopo la maturità scientifica mi sono specializzato in ingegneria del suono coltivando la mia passione per la programmazione e per la musica. 
@@ -99,7 +103,7 @@ In questo frangente prese forma e vennero formalizzati i principi della filosofi
 ## Libertà
 
 > Se un programma mi piace lo devo condividere con altre persone cui piace.
-<address>da una mail di Richiard Stallman datata 27 Settembre 1983.</address>
+<br/><span class="autore">da una mail di Richiard Stallman datata 27 Settembre 1983.</span>
 
 Richard Stallman è un informatico statunitense, attivista e fondatore del progetto [GNU](https://www.gnu.org/) e della [Free Software Foundation](https://www.fsf.org/), organizzazione no-profit che supporta il movimento software libero. 
 
@@ -117,7 +121,7 @@ Basta fare una veloce ricerca su Wikipedia per rendersi conto di quante siano og
 
 Restando in tema di apertura e condivisione, ti sarà di certo capitato di imbatterti in un simbolo come quello mostrato qui sotto
 
-![](./illustrations/license-by-sa.png)
+![Un tipico simbolo di una licenza Creative Commons](./illustrations/license-by-sa.png)
 
 Si tratta del tipico simbolo che caratterizza una particolare tipologia di licenza chiamata **Creative Commons**. 
 
@@ -132,7 +136,7 @@ Sei musicista? Disegnatore, pittore, scrittore? Stai per pubblicare il tuo pross
 Così facendo permetterai agli altri di godere del tuo lavoro senza però perdere i tuoi diritti, innescando il così detto **circolo virtuoso** per liberare la cultura. A tale scopo ti consiglio caldamente il libro di Lessig intitolato _Cultura libera_^[Lawrence Lessig, "**Cultura Libera**", Apogeo 2005. Titolo originale dell'opera: "Free Culture";], praticamente il manifesto del Creative Commons! 
 
 >Chi ricava una idea da me, ricava conoscenza senza diminuire la mia: come chi accende la sua candela con la mia riceve luce senza lasciarmi al buio.
-<address>Thomas Jefferson</address>
+<br/><span class="autore">Thomas Jefferson</span>
 
 Ecco giusto un'altra frase secondo me interessante che riassume brevemente i principi di cui abbiamo discusso. Perchè ti annoio con tutto questo discorso sulla libertà e sulla condivisione? Presto detto: il libro _Diario in codice_ sarà rilasciato proprio con una licenza di questo tipo, nello specifico una licenza denominata [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/). 
 
@@ -175,7 +179,7 @@ Stando almeno alle informazioni che ho raccolto finora, quando si decide di pubb
 Ecco una lista delle principali piattaforme di selfpublishing:
 
 * [Streetlib](https://www.streetlib.com/it/) (una piattaforma italiana fondata nel 2007, quella che userò per pubblicare il libro);
-* [ilmiolibro](ilmiolibro.kataweb.it/pubblicare-un-libro/) (communuty italiana di lettori e scrittori, che si occupa anche di selfpublishing);
+* [ilmiolibro](http://ilmiolibro.kataweb.it/pubblicare-un-libro/) (communuty italiana di lettori e scrittori, che si occupa anche di selfpublishing);
 * [youcanprint](http://www.youcanprint.it/) (altra piattaforma di selfpublishing italiana);
 * [lulu.com](https://www.lulu.com/it) (curiosità: nata in Canada nel 2002 ad opera di uno dei cofondatori del progetto RedHat, una particolare distribuzione del sistema operativo _GNU/Linux_, profondamente legato a quanto detto in merito al software libero);
 * [pixalib](http://www.pixalib.com/it/) (specializzata soprattutto in libri di architettura e d'arte, libri che fanno ampio uso di immagini e grafiche);
