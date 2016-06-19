@@ -25,3 +25,7 @@ Ecco come inserire una immagine senza che pandoc ne ricavi una didascalia ma, al
 In tale caso l'attributo alt è settato a 'img'.
 
 Un elemento di tipo **figure** è una immagine che viene inclusa all'interno del proprio elemento _div_ e in genere possiede sia un alt che una didascalia. Invece una illustrazione (immagine) è qualcosa che viene inclusa in un elemento _p_ ed è pensata per essere mostrata con il testo che le scorre attorno.
+
+## Licenza
+
+This work is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/.

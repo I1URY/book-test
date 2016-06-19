@@ -1,6 +1,6 @@
 % Diario in Codice @ Game Over Room
 % Nicola Ariutti
-% 10 Giugno 2016
+% 20 Giugno 2016
 
 # Introduzione
 

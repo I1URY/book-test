@@ -21,6 +21,7 @@ echo "Conversione in ePub in corso..."
 #    chapters/01-chapter1.md 
 
 pandoc -s --toc --toc-depth=2 --epub-stylesheet='epub/style.css' --epub-cover-image='epub/cover.png' -o export/book-test.epub  \
-    chapters/01-chapter1.md 
+    chapters/01-chapter1.md \
+    epub/license.md
 
 echo "Conversione ultimata!"
