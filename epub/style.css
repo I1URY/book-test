@@ -10,7 +10,7 @@
 * {
     font-family: serif;
     font-style: normal;
-    font-size: normal;
+    font-size: medium;
 }
 
 body {
@@ -31,8 +31,8 @@ p.cover {
 }
 
 img.cover {
-    max-width: 100%;
     height: 100%;
+    max-width: 100%;
 }
 
 a {
