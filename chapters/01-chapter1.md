@@ -16,11 +16,11 @@ Durante l'incontro ho parlato del progetto ai presenti e abbiamo discusso assiem
 
 Il progetto si chiama **Diario in Codice**, è un libro/manuale per imparare le basi della programmazione, pensato per chiunque voglia cominciare a scrivere i propri programmi per computer. 
 
-Il libro è autoedito, la sua realizzazione è stata supportata dai futuri lettori ed inoltre sarà rilasciato con una licenza di tipo permissiva (fra poco maggiori dettagli).
+Il libro è autoedito, la sua realizzazione è stata supportata dai futuri lettori ed inoltre sarà rilasciato con una licenza di tipo permissivo (fra poco maggiori dettagli).
 
 ## Come nasce?
 
-Da sempre, quando studio un nuovo argomento sono solito prendere appunti, scrivere su carta i concetti più importanti e fissare in parole i miei ragionamenti. Questo mi aiuta a memorizzare meglio i diversi aspetti della materia e a mettere in risalto i collegamenti che possono esserci tra varie discipline.
+Da sempre, quando studio un nuovo argomento sono solito prendere appunti, scrivere su carta i concetti più importanti e fissare in parole i miei ragionamenti. Questo mi aiuta a memorizzare meglio i diversi aspetti della materia e a mettere in luce i collegamenti che possono esserci tra varie discipline.
 
 Da alcuni anni mi sono avvicinato al mondo della programmazione e, così facendo, ho raccolto un discreto quantitativo di materiale, tanto che mi sono chiesto: "Perchè non condividerlo? In fondo, se questo materiale è stato utile per me potrebbe esserlo anche per altri!"
 
@@ -39,9 +39,9 @@ Oggigiorno non potrebbe esserci momento migliore per imparare a programmare: le 
 La rete è di sicuro la risorsa più ricca: si possono trovare blogs, articoli e forums dedicati all'argomento.
 Grazie poi al web 2.0, con il solo ausilio di un browser, si può imparare a programmare direttamente sul web in modo interattivo, facendo esercizi e verificado subito i propri progressi.
 
-In aggiunta a tutto ciò ci sono gli strumenti software veri e propri (i programmi) da installare sul proprio computer che permettono di ampliare le possibilità offerte dal web di sperimentare e applicare quanto si sta apprendendo. Eccoti una breve lista, solo per citarne i principali: [Processing](https://processing.org/), [Python](https://www.python.org/), [Scratch](https://scratch.mit.edu/) e [Arduino](https://www.arduino.cc/)). Ne parleremo meglio tra poco, ma è bene accennarlo fin da subito: la maggiorparte di questi strumenti sono **liberi**!
+In aggiunta a tutto ciò ci sono gli strumenti software veri e propri (i programmi) da installare sul proprio computer che permettono di ampliare le possibilità offerte dal web per sperimentare e applicare quanto si sta apprendendo. Eccoti una breve lista, solo per citarne i principali: [Processing](https://processing.org/), [Python](https://www.python.org/), [Scratch](https://scratch.mit.edu/) e [Arduino](https://www.arduino.cc/)). Ne parleremo meglio tra poco, ma è bene accennarlo fin da subito: la maggiorparte di questi strumenti sono **liberi**!
 
-Infine, come non citare i libri; la rete è anche un vastissimo raccoglitore di informazioni su autori e pubblicazioni su qualsiasi aspetto legato alla programmazione.
+Infine, come non parlare dei libri; la rete è anche un vastissimo raccoglitore di informazioni su autori e pubblicazioni su qualsiasi aspetto legato alla programmazione.
 Insomma, come puoi vedere siamo ormai immersi in una miriade di possibilità, adatte a qualsiasi gusto e preferenza.
 
 Programmare ci fa capire fondamentalmente questo:
@@ -52,7 +52,7 @@ E' una frase di Bruce Sterling, scrittore e giornalista statunitense che si occu
 
 Un'affermazione forte e chiara: il computer è una macchina stupida! Per quanto mi riguarda, fino a qualche tempo fa non avevo un'opinione in merito: ero solito lavorare al computer senza conoscerlo più di tanto. Mi bastava usarlo solo come strumento per le mie esigenze quotidiane, interagendo non più dell'indispensabile. 
 
-Programmare ti insegna ad usare il computer in modi nuovi, ad esserne padrone e sfruttarlo a fondo. Quando l'ho scoperto è stato come accorgersi che la propria _cassetta degli attrezzi_ non conteneva soltanto un semplice martello, ma che al suo interno potevo trovare anche un intero set di cacciaviti, alcune pinze, chiavi, brugole e così via.
+Programmare ti insegna ad usare il computer in modi nuovi, ad esserne padrone e sfruttarlo a fondo. Quando l'ho scoperto è stato come accorgersi che la mia _cassetta degli attrezzi_ non conteneva soltanto un semplice martello, ma che al suo interno potevo trovare anche un intero set di cacciaviti, alcune pinze, chiavi, brugole e così via.
 
 Il computer è una macchina dalle enormi potenzialità ma che - come dice Sterling - non sa che cosa fare. Se il computer fa qualcosa, lo fa soltanto perchè qualcuno gli ha spiegato **come** farlo, lo ha istruito, gli ha fornito delle istruzioni: in altre parole lo ha programmato.
 
@@ -76,7 +76,7 @@ Per noi non è possibile guardare al loro interno nè per soddisfare una nostra 
 
 A ben pensarci è come se la nostra automobile avesse il cofano motore completamente saldato al resto della carrozzeria: sarebbe impossibile aprirlo per sbirciare il movimento delle varie parti meccaniche, proprio come sarebbe impossibile intervenire per ripararlo in caso di guasto.
 
-Perchè non si dovrebbe poterlo fare, mi chiedo? 
+Perchè non si lo si dovrebbe poter fare, mi chiedo? 
 
 Fortunatamente, esistono moltissimi altri programmi progettati e rilasciati in modo che _ci si possa guardare dentro_. Questi programmi rispettano l'utente e garantiscono una maggiore libertà. 
 
@@ -117,7 +117,7 @@ Basta fare una veloce ricerca su Wikipedia per rendersi conto di quante siano og
 * [open learning](https://en.wikipedia.org/wiki/Open_learning) (si riferisce all'ampliamento e al potenziamento delle opportunità di imparare, sia tramite i sistemi tradizionali sia attraverso metodi interattivi basati sulle nuove tecnologie vedi, ad esempio, questi altri due termini interessanti, [OER](https://en.wikipedia.org/wiki/Open_educational_resources) e [MOOC](https://en.wikipedia.org/wiki/Massive_open_online_course));
 * [open data](https://en.wikipedia.org/wiki/Open_data) (l'idea che anche i dati dovrebbero essere liberamente disponibili per chiunque e accessibili senza restrizioni di copyright, brevetti o meccanismi di controllo);
 * [open acces](https://en.wikipedia.org/wiki/Open_access) (il termine applicato a tutti quegli articoli scientifici e risultati delle ricerche scientifiche che vengono rilasciati liberi da tutte le limitazioni d'accesso e liberi anche da molte delle restrizioni sul loro utilizzo);
-* [open publishing](https://en.wikipedia.org/wiki/Open_publishing) (il processo di creazione di notizie o altri contenuti in modo trasparente per i lettori; un esempio su tutti è la stessa Wikipedia).
+* [open publishing](https://en.wikipedia.org/wiki/Open_publishing) (il processo di creazione di notizie o altri contenuti in modo concertato e trasparente per i lettori; un esempio su tutti è la stessa Wikipedia).
 
 Restando in tema di apertura e condivisione, ti sarà di certo capitato di imbatterti in un simbolo come quello mostrato qui sotto
 
@@ -138,9 +138,11 @@ Così facendo permetterai agli altri di godere del tuo lavoro senza però perder
 >Chi ricava una idea da me, ricava conoscenza senza diminuire la mia: come chi accende la sua candela con la mia riceve luce senza lasciarmi al buio.
 <br/><span class="autore">Thomas Jefferson</span>
 
-Ecco giusto un'altra frase secondo me interessante che riassume brevemente i principi di cui abbiamo discusso. Perchè ti annoio con tutto questo discorso sulla libertà e sulla condivisione? Presto detto: il libro _Diario in codice_ sarà rilasciato proprio con una licenza di questo tipo, nello specifico una licenza denominata [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/). 
+Ecco giusto un'altra frase secondo me interessante che riassume brevemente i principi di cui abbiamo discusso. 
 
-Che cosa per metter di fare questa licenza? Con questa licenza il lettore, a patto di attribuire sempre all'autore la paternità dell'opera originale, sarà libero di condividere e ridistribuire copie del materiale attraverso quasiasi mezzo o formato, sarà libero inoltre di trasformare e adattare l'opera a propria discrezione a patto soltanto che il risultato, se ricondiviso, venga distribuito usando la stessa licenza dell'originale.
+Perchè ti annoio con tutto questo discorso sulla libertà e sulla condivisione? Presto detto: il libro _Diario in codice_ sarà rilasciato proprio con una licenza di questo tipo, nello specifico una licenza denominata [Creative Commons Attribuzione - Condividi allo stesso modo 4.0 Internazionale](http://creativecommons.org/licenses/by-sa/4.0/). 
+
+Che cosa permette di fare questa licenza? Con questa licenza il lettore, a patto di attribuire sempre all'autore la paternità dell'opera originale, sarà libero di condividere e ridistribuire copie del materiale attraverso quasiasi mezzo o formato, sarà libero inoltre di trasformare e adattare l'opera a propria discrezione a patto soltanto che il risultato, se ricondiviso, venga distribuito usando la stessa licenza dell'originale.
 
 ## Il libro
 
@@ -150,7 +152,7 @@ Se non lo conosci, Arduino è una piccola scheda elettronica, grande quando una 
 
 Grazie ad Arduino il nostro computer sarà in grado di captare stimoli provenienti dal mondo esterno come l'umidità dell'aria, l'intensità luminosa o la forza meccanica attraverso diversi tipi di sensore.
 
-Inoltre, grazie alla scheda, il computer sarà anche in grado di inviare segnali verso l'esterno, interagendo con il mondo fisico tramite dispositivi detti attuatori (led, motorini elettrici, piccoli altoparlandi o schermi LCD).
+Inoltre, grazie alla scheda, il computer sarà anche in grado di inviare segnali verso l'esterno, interagendo con il mondo fisico tramite dispositivi detti attuatori (led, motorini elettrici, piccoli altoparlanti o schermi LCD).
 
 Se da un lato occorrerà imparare qualche nozione di base di elettrotecnica (_Diario in codice_ parlerà anche di questo), dall'altro vedremo come la piattaforma Arduino sia l'ideale per comprendere l'importanza dei programmi che in questo caso ci permetteranno di interagire direttamente con il mondo reale! 
 
@@ -172,7 +174,7 @@ L'editore inoltre ha facoltà di agire attivamente sull'opera, modificandone in 
 
 Seguire l'esempio di Shiffman mi avrebbe invece garantito il pieno controllo sul contenuto del mio libro; nelle mani di un editore esperto la gran mole di lavoro sarebbe stata velocizzata, ma mi sono reso conto che pubblicare autonomamente mi avrebbe permesso di applicare al libro la licenza permissiva con la quale volevo rilasciarlo.
 
-E' stato così che ho scoperto il **self-publihshig** (o autoedizione in italiano): esistono una miriade di aziende on-line che mettono al servizio degli autori professionalità e strumenti per la stampa, vedita e distribuzione delle opere editoriali, e che, senza entrare nel merito dei contenuti, garantisco una grande autonomia ed indipendenza. 
+E' stato così che ho scoperto il **self-publihshig** (o autoedizione in italiano): esistono una miriade di aziende on-line che mettono al servizio degli autori professionalità e strumenti per la stampa, vedita e distribuzione delle opere editoriali e che, senza entrare nel merito dei contenuti, garantisco una grande autonomia ed indipendenza. 
 
 Stando almeno alle informazioni che ho raccolto finora, quando si decide di pubblicare utilizzando uno di questi servizi di self-publishing, non è prevista alcuna esclusiva, per cui è possibile stampare e vendere il proprio libro usando contemporaneamente anche qualche altro servizio.
 
@@ -191,9 +193,9 @@ _Diario in Codice_ sarà pubblicato in formato digitale (ePub): sembra un'opzion
 
 ### DRM
 
-Una cosa che purtroppo segue da vicino i prodotti digitali è il DRM, ovvero il sistema di controllo dei diritti digitali. Ogni file musicale che acquistiamo, ogni videogioco che downloadiamo da internet, ogni trasmissione video in streaming, così come ogni eBook che leggiamo è potenzialmente equipaggiato con uno di questi sistemi di controllo. 
+Una cosa che purtroppo segue da vicino i prodotti digitali, e conseguentemente anche gli eBook, è il DRM, ovvero il sistema di controllo dei diritti digitali. Ogni file musicale che acquistiamo, ogni videogioco che downloadiamo da internet, ogni trasmissione video in streaming, così come ogni eBook che leggiamo è potenzialmente equipaggiato con uno di questi sistemi di controllo. 
 
-Si tratta in pratica di piccoli programmi informatici inclusi all'interno dei file che gli stessi produttori inseriscono appositamente per controllarne l'uso da parte dell'utente.
+Si tratta in pratica di piccoli programmi informatici inclusi all'interno dei file appositamente per controllarne l'uso da parte dell'utente.
 
 Giusto per fare un esempio, i dispositivi DRM sono quelli che, nel caso di un libro in formato digitale, impediscono all'utente di trarne alcuni estratti attraverso il copia-incolla, oppure impediscono di crearne copie, fosse anche per la sola archiviazione di backup, oppure ancora ne obbligano la lettura soltanto su una specifica marca di lettori ereader.
 
@@ -203,13 +205,13 @@ Prima dell'avvento di internet nessuno disponeva dei mezzi tecnici per creare co
 
 Al giorno d'oggi, con la tecnologia di cui disponiamo, potremmo tranquillamente condividere la nostra esperienza con moltissime altre persone senza per questo interrompere la nostra fruizione; è l'immediatezza di un semplice gesto, basta fare un click e la copia è fatta!
 
-Tutti questi sistemi DRM cercano di impedirlo, trasponendo nel presente e nel prossimo futuro le stesse difficoltà tecniche appartenenti ad un'epoca passata e annullando di fatto tutti i vantaggi che derivano dall'uso delle moderne tecnologie; ostacolando in altri termini la diffusione libera delle idee e della cultura.
+Si tratta dei vantaggi che derivano dall'uso delle moderne tecnologie, vantaggi che tutti questi sistemi DRM cercano in pratica di annullare, trasponendo nel presente e nel prossimo futuro le stesse difficoltà tecniche appartenenti ad un'epoca passata; ostacolando in altri termini la diffusione libera delle idee e della cultura.
 
 Personalmente trovo che tutto questo suoni molto anacronistico: se una tecnologia comporta dei miglioramenti e dei vantaggi per tutti, perchè limitarla? Perchè non sfruttarla completamente? Evidentemente le logiche del profitto hanno la meglio in queste situazioni.
 
-Se l'utente è consapevole della tecnologia che sta utilizzando è giusto che ne possa godere; questi sistemi di limitazione sembrano sottovalutare presuntuosamente l'intelligenza delle persone e considerare invece solo l'ottica di mercato per cui le esperienze dello scambio e della fruizione vengono limitate o eliminate perchè non se ne possa trarre profitto.
+Se l'utente è consapevole della tecnologia che sta utilizzando è giusto che ne possa godere; questi sistemi di limitazione sembrano sottovalutare presuntuosamente l'intelligenza delle persone e considerare invece solo l'ottica di mercato per cui le esperienze dello scambio e della fruizione vengono limitate o eliminate del tutto perchè non se ne possa trarre profitto.
 
-Nel rispetto di quanto abbiamo detto fino ad ora in merito alla libertà della cultura e della condivisione, cercherò, a tal proposito, di valutare attentamente quali canali di distribuzione utilizzare per metter in vendita il foramto ebook del mio libro. 
+Nel rispetto di quanto abbiamo detto fino ad ora in merito alla libertà della cultura e della condivisione, cercherò, a tal proposito, di valutare attentamente quali canali di distribuzione utilizzare per metter in vendita il formato ebook del mio libro. 
 
 Possibilmente dovrò capire quali di questi canali pretendano l'applicazione di sistemi proprietari di controllo dei diritti e quali invece risultino essere più permissivi. 
 
@@ -219,7 +221,7 @@ Un altro punto di merito per StreetLib è il fatto che permette di usare un cana
 
 Poco fa abbiamo parlato di Daniel Shiffman e del suo libro non solo autoedito ma anche finanziato da una campagna di raccolta fondi attraverso la rete.
 
-Quando ho deciso di pubblicare ho deciso di provare anche io questa nuova modalità di finanziamento: **crowdfunding** è il termine che si usa, tradotto letteralmente in finanziamento dalla folla. Chiunque abbia un'idea per la testa o un progetto da realizzare può utilizzare questo strumento per rivolgersi direttamente a propri potenziali sostenitori tramite internet, e raccogliere così i loro contributi.
+Quando ho deciso di pubblicare ho deciso di provare anche io questa nuova modalità di finanziamento: **crowdfunding**, tradotto letteralmente in finanziamento dalla folla, è il termine che si usa in questo caso. Chiunque abbia un'idea per la testa o un progetto da realizzare può utilizzare questo strumento per rivolgersi direttamente a propri potenziali sostenitori tramite internet, e raccogliere così i loro contributi.
 
 Avendo partecipato più volte a diverse campagne di crowdfunding in passato, passando da progetti editoriali a videogames a documentari e films, credo che sostenere i nostri progetti preferiti sia estremamente importante. 
 
@@ -235,7 +237,7 @@ Eccoti un lista delle principali piattaforme di crowdfunding sulle quali ho avut
 * [Indiegogo](https://www.indiegogo.com/) (nata nel 2008, americana);
 * [MusicRaiser](https://musicraiser.com/) (credo americana anche questa, nata nel 2012 e specializzata in progetti di tipo musicale);
 
-Scelta la piattaforma, si è trattato di quantificare il budget da raggiungere, considerando non solo i costi per la stampa e distribuzione, ma anche quelli per la realizzazione delle ricompense per i sostenitori, preparare i contenuti testuali e video e avviare la campagna. 
+Scelta la piattaforma, si è trattato di quantificare il budget da raggiungere, considerando non solo i costi per la stampa e distribuzione, ma anche quelli per la realizzazione delle ricompense per i sostenitori, preparare i contenuti testuali e video prima di avviare la campagna. 
 
 Ad oggi, dopo 2 mesi e a campagna ultimata, abbiamo raggiunto un buon risultato, raccogliendo una somma che, seppur non mi consentirà di portare a termine tutto quello che avevo in mente, mi permetterà comunque di completare il libro, di pubblicarlo e renderlo disponibile per tutti.
 
