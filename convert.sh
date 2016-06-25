@@ -20,8 +20,11 @@ echo "Conversione in ePub in corso..."
 #    epub/metadata.yaml \
 #    chapters/01-chapter1.md 
 
-pandoc -s --toc --toc-depth=2 --epub-stylesheet='epub/style.css' --epub-cover-image='epub/cover.png' -o export/book-test.epub  \
+pandoc -s --toc --toc-depth=2 --epub-stylesheet='epub/style.css' --epub-cover-image='epub/cover.png' -o export/book-test.epub \
+    --epub-metadata=epub/metadata.xml \
     chapters/01-chapter1.md \
     epub/license.md
+    
+# epub/metadata.yaml  
 
 echo "Conversione ultimata!"
